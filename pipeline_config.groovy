@@ -3,5 +3,5 @@
 
 libraries {
   //merge = false // disallow individual repos to contribute additional libraries
-  testBuild
+  maven
 }
